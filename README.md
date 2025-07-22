@@ -17,5 +17,3 @@ Create a README file and commit
 Make some changes for the assignment 4 #d) in the collaborator branch and commit
 > git commit -m "Content for assignment 4.d"
 
-Make another change for the assignment 4 #d) in the collaborator branch and commit
-> git commit -m "Content for assignment 4.d again"
